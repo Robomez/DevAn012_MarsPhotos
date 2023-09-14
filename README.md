@@ -1,6 +1,8 @@
 MarsPhotos - Starter Code
 ==================================
 
+<img src = "demo.gif" width = 30%>
+
 Starter code for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
 
 Introduction
